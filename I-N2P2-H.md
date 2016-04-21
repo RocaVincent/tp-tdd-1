@@ -17,7 +17,7 @@
 * DIABAT  MELVIN : 
 * DRAMÉ MARIAMA : 
 * DURAND  ADRIEN : 
-* FRANÇOIS  NELSON : https://github.com/Nahyto/tp-tdd-romannumerals.git
+* FRANÇOIS  NELSON : 
 * GILLET  DYLAN : 
 * GILLET  LENAIC : 
 * LANTOINE  ALEXANDRE : 
@@ -29,5 +29,5 @@
 * MUDRY QUENTIN : 
 * OURIZAT MAXENCE : 
 * PLAISANCE BAPTISTE : 
-* ROCA  VINCENT : 
+* ROCA  VINCENT : https://github.com/RocaVincent/tp-tdd.git
 * VANRENTERGHEM ANTHONY : 
